@@ -2,7 +2,7 @@
 title: "Cornish Hen Pho"
 date: 2026-02-08
 tags: ['chicken', 'vietnamese']
-author: "amy-n.json"
+author: "amy n"
 ---
 
 Quick pho made with cornish hen stuffed with rice. 
