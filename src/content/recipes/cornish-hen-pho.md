@@ -2,7 +2,7 @@
 title: "Cornish Hen Pho"
 date: 2026-02-08
 tags: ['chicken', 'vietnamese']
-author: "amy n"
+author: "amy-n"
 ---
 
 Quick pho made with cornish hen stuffed with rice. 
@@ -14,33 +14,33 @@ Quick pho made with cornish hen stuffed with rice.
 ## Ingredients
 
 ### For the Broth
-1 Cornish hen
-¼ cup uncooked rice
-4 garlic cloves
-3-inch piece of ginger
-½ onion
-3-4 green onion whites (reserve green tops for garnish)
-3-5 tbsp fish sauce
-3-4 rock sugar cubes (or 1-2 tbsp granulated sugar)
-Salt, to taste
+- 1 Cornish hen
+- ¼ cup uncooked rice
+- 4 garlic cloves
+- 3-inch piece of ginger
+- ½ onion
+- 3-4 green onion whites (reserve green tops for garnish)
+- 3-5 tbsp fish sauce
+- 3-4 rock sugar cubes (or 1-2 tbsp granulated sugar)
+- Salt, to taste
 
 ### Spice Packet
-2 tsp fennel seeds
-2 tsp coriander seeds
-3-4 whole cloves
-3-4 star anise
+- 2 tsp fennel seeds
+- 2 tsp coriander seeds
+- 3-4 whole cloves
+- 3-4 star anise
 
 ### For Serving
-Fresh cilantro, chopped
-Green onions, sliced
- White or red onion, thinly sliced
-Lime wedges
-Rice noodles
+- Fresh cilantro, chopped
+- Green onions, sliced
+- White or red onion, thinly sliced
+- Lime wedges
+- Rice noodles
 
 ### Shallot Oil
-2-3 shallots, thinly sliced
-½ cup olive oil or avocado oil
-Salt, to taste
+- 2-3 shallots, thinly sliced
+- ½ cup olive oil or avocado oil
+- Salt, to taste
 
 
 ## Directions
